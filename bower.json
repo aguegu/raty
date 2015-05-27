@@ -12,7 +12,7 @@
     "lib/fonts/raty.ttf",
     "lib/fonts/raty.woff",
     "lib/jQuery.raty.css",
-    "lib/jQuery.raty.js",
+    "lib/jQuery.raty.js"
   ],
 
   "ignore": [
