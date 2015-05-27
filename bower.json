@@ -6,6 +6,19 @@
     "jquery": "2"
   },
 
+  "main": [
+    "lib/fonts/raty.eot",
+    "lib/fonts/raty.svg",
+    "lib/fonts/raty.ttf",
+    "lib/fonts/raty.woff",
+    "lib/jQuery.raty.css",
+    "lib/jQuery.raty.js",
+  ],
+
+  "ignore": [
+    "demo"
+  ],
+
   "homepage"     : "https://github.com/wbotelhos/raty",
   "ignore"       : ["**/.*", "node_modules", "spec", "vendor"],
   "keywords"     : ["classificacao", "classificar", "javascript", "jquery", "library", "plugin", "rating", "raty", "star", "staring", "votar", "voto"],
